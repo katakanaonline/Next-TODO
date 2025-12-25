@@ -71,7 +71,7 @@ export default function Home() {
             />
             <button
               onClick={addTodo}
-              className="px-6 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-colors font-medium"
+              className="px-6 py-2 bg-red-500 text-white rounded-lg hover:bg-red-600 transition-colors font-medium"
             >
               追加
             </button>
